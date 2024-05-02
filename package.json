@@ -1,0 +1,31 @@
+{
+  "name": "aula-2-aula-ao-vivo",
+  "version": "1.0.0",
+  "description": "2 aula online",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcaraujojc/Aula-2-aula-ao-vivo.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "HTTP",
+    "GET",
+    "programação"
+  ],
+  "author": "João Carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcaraujojc/Aula-2-aula-ao-vivo/issues"
+  },
+  "homepage": "https://github.com/jcaraujojc/Aula-2-aula-ao-vivo#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
